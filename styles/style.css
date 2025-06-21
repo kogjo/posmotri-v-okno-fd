@@ -85,7 +85,6 @@ ol {
   padding-left: 1px;
   display: flex;
   flex-direction: column;
-  gap: 30px;
 }
 
 .content__list-item {
